@@ -1,1 +1,0 @@
-The implementation of the ICDAR 2019 paper "[Patch Aggregator for Scene Text Script Identification](https://conferences.computer.org/icdar/2019/pdfs/ICDAR2019-5vPIU32iQjjaLtHlc8g8pO/42xjoL7EibWnYCDsa7GjPy/tHniBtk1CXfSFDYwLcQ0H.pdf)".
